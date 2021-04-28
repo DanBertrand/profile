@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/DanBertrand/profile/static/js/main.c2c39308.chunk.js",
+    "main.js.map": "/DanBertrand/profile/static/js/main.c2c39308.chunk.js.map",
+    "runtime-main.js": "/DanBertrand/profile/static/js/runtime-main.1c1107e8.js",
+    "runtime-main.js.map": "/DanBertrand/profile/static/js/runtime-main.1c1107e8.js.map",
+    "static/js/2.49742f6b.chunk.js": "/DanBertrand/profile/static/js/2.49742f6b.chunk.js",
+    "static/js/2.49742f6b.chunk.js.map": "/DanBertrand/profile/static/js/2.49742f6b.chunk.js.map",
+    "static/js/3.7add92a0.chunk.js": "/DanBertrand/profile/static/js/3.7add92a0.chunk.js",
+    "static/js/3.7add92a0.chunk.js.map": "/DanBertrand/profile/static/js/3.7add92a0.chunk.js.map",
+    "index.html": "/DanBertrand/profile/index.html",
+    "static/js/2.49742f6b.chunk.js.LICENSE.txt": "/DanBertrand/profile/static/js/2.49742f6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c1107e8.js",
+    "static/js/2.49742f6b.chunk.js",
+    "static/js/main.c2c39308.chunk.js"
+  ]
+}
